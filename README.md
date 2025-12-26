@@ -3,6 +3,10 @@
 # Galaxy Cloud - 银河云
 Galaxy Cloud 银河云提供稳定高速的科学上网服务，支持多平台设备同时连接，解锁奈飞 Netflix、HBO Max、Disney+、YouTube、Amazon Prime Video等主流全球流媒体，拥有遍布全球的多个高质量节点，特别适用于出国访问、流媒体加速和网络隐私保护，确保连接安全稳定，体验流畅无卡顿。
 
+- [🔥🔥🔥2026 年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/airport/summary)
+- [🔥🔥🔥 稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/sharing/account-sharing-guide)
+
+
 ## 银河云双旦优惠活动
 
 - 全场套餐 8折: `0080`
