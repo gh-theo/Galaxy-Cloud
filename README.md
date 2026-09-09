@@ -6,7 +6,7 @@
 
 **最便宜的订阅有8元 50g/月(年付)。**
 
-**点击购买👉👉👉** [银河云(GalaxyCloud)VPN官网](https://eoht.net/serve/airport/xdm)
+**点击购买👉👉👉** [银河云(GalaxyCloud)VPN官网](https://eoht.net/serve/airport/summary)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -36,19 +36,19 @@
 
 |   套餐类型   | 流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                    |
 | :----------: | :------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
-| **年付小包** | **50G**  |  -   |  -   |   -    |  ¥98  |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
-| **星尘套餐** | **100G** | ¥18  | ¥49  |  ¥92   | ¥173  |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
-| **行星套餐** | **200G** | ¥35  | ¥95  |  ¥179  | ¥336  |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
-| **恒星套餐** | **400G** | ¥70  | ¥189 |  ¥357  | ¥672  |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
-| **星系套餐** | **800G** | ¥140 | ¥378 |  ¥714  | ¥1344 |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
+| **年付小包** | **50G**  |  -   |  -   |   -    |  ¥98  |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
+| **星尘套餐** | **100G** | ¥18  | ¥49  |  ¥92   | ¥173  |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
+| **行星套餐** | **200G** | ¥35  | ¥95  |  ¥179  | ¥336  |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
+| **恒星套餐** | **400G** | ¥70  | ¥189 |  ¥357  | ¥672  |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
+| **星系套餐** | **800G** | ¥140 | ¥378 |  ¥714  | ¥1344 |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
 
 |    套餐类型    | 流量(不限时) | 一次性费用 | 设备限制 |                                                    套餐购买                                                    |
 | :------------: | :----------: | :--------: | :------: | :------------------------------------------------------------------------------------------------------------: |
-| **不限时套餐** |  **1000G**   |    ¥680    |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
+| **不限时套餐** |  **1000G**   |    ¥680    |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
 
 ## 银河云(GalaxyCloud)VPN真实测速图（高峰期表现实测）
 
-完整测速图、流媒体与 AI 解锁结果请查看：[完整评测](https://eoht.net/serve/airport/xdm)
+完整测速图、流媒体与 AI 解锁结果请查看：[完整评测](https://eoht.net/serve/airport/summary)
 
 - [🔥🔥🔥2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)](https://eoht.net/serve/airport/summary)
 - [翻墙科学上网客户端使用教程汇总](https://eoht.net/serve/antiwall/summary)
